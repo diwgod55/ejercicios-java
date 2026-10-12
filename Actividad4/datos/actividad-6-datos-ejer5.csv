@@ -1,0 +1,100 @@
+1,Laptop,2,15000.0
+2,Mouse,5,250.0
+3,Teclado,3,600.0
+4,Monitor,1,4500.0
+5,Memoria USB,4,180.0
+6,Disco Duro,2,2200.0
+7,Audífonos,3,750.0
+8,Cargador,2,350.0
+9,Cámara Web,1,900.0
+10,Bocinas,2,1200.0
+11,Tablet,1,8000.0
+12,Smartphone,1,12000.0
+13,Impresora,1,3500.0
+14,Tinta para impresora,4,400.0
+15,Router,2,1500.0
+16,SSD 512GB,2,1800.0
+17,SSD 1TB,1,3200.0
+18,Memoria RAM 8GB,3,900.0
+19,Memoria RAM 16GB,2,1500.0
+20,Gabinete PC,1,1400.0
+21,Fuente de poder,2,1100.0
+22,Placa base,1,3500.0
+23,Procesador,1,5200.0
+24,Tarjeta gráfica,1,9000.0
+25,Adaptador USB,3,200.0
+26,Hub USB,2,300.0
+27,Cable HDMI,4,150.0
+28,Cable VGA,2,120.0
+29,Micrófono,1,850.0
+30,Soporte para laptop,2,450.0
+31,Laptop Gamer,1,25000.0
+32,Mouse Gamer,3,650.0
+33,Teclado Mecánico,2,1800.0
+34,Monitor Curvo,1,7200.0
+35,Mousepad,5,120.0
+36,Disco Duro Externo,2,2500.0
+37,SSD 256GB,3,1200.0
+38,Memoria RAM 4GB,4,450.0
+39,Webcam HD,2,950.0
+40,Bocina Bluetooth,3,800.0
+41,Tablet Android,2,6000.0
+42,Smartwatch,2,3500.0
+43,Cargador inalámbrico,3,500.0
+44,Power Bank,4,650.0
+45,Router WiFi 6,1,3200.0
+46,Switch de red,2,1400.0
+47,Cable de red,6,80.0
+48,Adaptador HDMI,2,300.0
+49,Lector de tarjetas,3,220.0
+50,Micrófono USB,2,1100.0
+51,Soporte para monitor,2,700.0
+52,Laptop Básica,1,12000.0
+53,Mouse inalámbrico,3,350.0
+54,Teclado inalámbrico,2,700.0
+55,Monitor LED,1,4200.0
+56,Memoria USB 32GB,5,150.0
+57,Memoria USB 64GB,4,220.0
+58,Disco Duro 2TB,2,2800.0
+59,Audífonos Gamer,2,1300.0
+60,Cargador rápido,3,400.0
+61,Cámara digital,1,9500.0
+62,Bocina portátil,2,1100.0
+63,Tablet 10 pulgadas,1,7500.0
+64,Smartphone gama media,1,9000.0
+65,Impresora láser,1,5200.0
+66,Toner impresora,2,850.0
+67,Router doble banda,2,1700.0
+68,SSD 2TB,1,5200.0
+69,Memoria RAM 32GB,1,3200.0
+70,Gabinete Gamer,1,2600.0
+71,Fuente de poder 750W,2,1800.0
+72,Placa base Gamer,1,4200.0
+73,Procesador i7,1,8500.0
+74,Tarjeta gráfica RTX,1,15000.0
+75,Adaptador Bluetooth,3,250.0
+76,Hub USB-C,2,650.0
+77,Cable DisplayPort,3,220.0
+78,Cable USB-C,4,180.0
+79,Micrófono profesional,1,2500.0
+80,Soporte para celular,4,150.0
+81,Laptop ultrabook,1,22000.0
+82,Mouse ergonómico,2,750.0
+83,Teclado compacto,2,950.0
+84,Monitor 4K,1,9800.0
+85,Mousepad Gamer XL,3,350.0
+86,Disco Duro 4TB,1,4200.0
+87,SSD NVMe 1TB,2,2800.0
+88,Memoria RAM RGB 16GB,2,1800.0
+89,Webcam Full HD,2,1200.0
+90,Bocina inteligente,1,2400.0
+91,Tablet para dibujo,1,5600.0
+92,Smartwatch deportivo,2,2800.0
+93,Cargador para auto,3,200.0
+94,Power Bank 20000mAh,2,900.0
+95,Router empresarial,1,6200.0
+96,Switch Gigabit,2,2100.0
+97,Cable óptico,3,350.0
+98,Adaptador VGA a HDMI,2,320.0
+99,Lector de huellas USB,1,850.0
+101,Cargador,3,200
