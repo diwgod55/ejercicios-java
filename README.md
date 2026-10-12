@@ -26,7 +26,7 @@ ejercicios-java/
 └── README.md
 
 Capturas
-(imagenes/Captura.png)
+![Captura](imagenes/Captura.png)
 
 
 Cómo obtener el proyecto
