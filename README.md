@@ -25,9 +25,6 @@ ejercicios-java/
 ├── build.xml
 └── README.md
 
-Capturas
-![Captura](imagenes/Captura.png)
-
 
 Cómo obtener el proyecto
 
